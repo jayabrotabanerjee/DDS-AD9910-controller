@@ -7,3 +7,6 @@
 
 ### Arduino IDE Screenshot of Serial Monitor
 ![Arduino IDE Screenshot](Screenshot%20(136).png)
+
+### Output without Reference Clock
+![DDS Output without 10Mhz Reference Clock from Red Pitaya](Screenshot%20(142).png)
